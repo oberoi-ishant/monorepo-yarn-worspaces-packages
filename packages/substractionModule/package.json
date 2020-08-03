@@ -1,0 +1,12 @@
+{
+  "name": "substractionModule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test from substractionModule\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
